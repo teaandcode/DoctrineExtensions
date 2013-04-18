@@ -1,6 +1,6 @@
 {
     "name": "tea-and-code/doctrine-extensions",
-    "description": "Adds custom RDBMS functions to Doctrine 2",
+    "description": "Adds custom RDBMS functions to Doctrine2",
     "homepage": "http://teaandcode.com",
     "type": "symfony-bundle",
     "license": "Apache2",
