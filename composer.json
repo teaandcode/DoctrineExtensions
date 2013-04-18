@@ -1,0 +1,34 @@
+{
+    "name": "tea-and-code/doctrine-extensions",
+    "description": "Adds custom RDBMS functions to Doctrine 2",
+    "homepage": "http://teaandcode.com",
+    "type": "symfony-bundle",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "Dave Nash",
+            "email": "dave.nash@teaandcode.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/framework-bundle": ">=2.1.0,<2.3-dev",
+        "symfony/security-bundle": "*"
+    },
+    "require-dev": {
+        "sensio/framework-extra-bundle": "*",
+        "symfony/class-loader": "*",
+        "symfony/yaml": "*",
+        "symfony/browser-kit": "*",
+        "symfony/class-loader": "*",
+        "symfony/finder": "*",
+        "symfony/css-selector": "*",
+        "symfony/process": "*",
+        "doctrine/doctrine-bundle": "*",
+        "symfony/twig-bundle": "*",
+        "doctrine/orm": "*",
+        "symfony/form": "*",
+        "symfony/validator": "*"
+    },
+    "target-dir": "TeaAndCode/DoctrineExtensions"
+}
