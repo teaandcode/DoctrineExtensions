@@ -30,5 +30,8 @@
         "symfony/form": "*",
         "symfony/validator": "*"
     },
+    "autoload": {
+        "psr-0": { "TeaAndCode\\DoctrineExtensions": "" }
+    },
     "target-dir": "TeaAndCode/DoctrineExtensions"
 }
